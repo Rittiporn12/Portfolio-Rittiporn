@@ -20,7 +20,7 @@ function Contact() {
                                 <strong>Phone:</strong> 085-108-9843
                             </p>
                             <p>
-                                <strong>Email:</strong> rittiporn.contact@gmail.com
+                                <strong>Email:</strong> earthcraftchallenge@gmail.com
                             </p>
                             <p>
                                 <strong>Address:</strong> Mueng Samut Prakan, Samut Prakan 10280

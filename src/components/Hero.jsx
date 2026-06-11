@@ -112,7 +112,7 @@ function Hero() {
                             <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
                                 <i className="bi bi-linkedin"></i>
                             </a>
-                            <a href="mailto:rittiporn.contact@gmail.com">
+                            <a href="mailto:earthcraftchallenge@gmail.com">
                                 <i className="bi bi-envelope-fill"></i>
                             </a>
                         </div>
