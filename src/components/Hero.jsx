@@ -219,25 +219,21 @@ function Hero() {
 
 
                         <div className="social-links">
-
                             <a href="https://github.com/Rittiporn12" target="_blank" rel="noreferrer">
-
                                 <i className="bi bi-github"></i>
-
                             </a>
 
-                            <a href="https://linkedin.com/" target="_blank" rel="noreferrer">
+                            <a href="https://www.facebook.com/v.ththi.phr.phungphay/" target="_blank" rel="noreferrer">
+                                <i className="bi bi-facebook"></i>
+                            </a>
 
-                                <i className="bi bi-linkedin"></i>
-
+                            <a href="https://www.instagram.com/rtp_earth/" target="_blank" rel="noreferrer">
+                                <i className="bi bi-instagram"></i>
                             </a>
 
                             <a href="mailto:earthcraftchallenge@gmail.com">
-
                                 <i className="bi bi-envelope-fill"></i>
-
                             </a>
-
                         </div>
 
                     </Col>
