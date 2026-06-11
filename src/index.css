@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800&display=swap");
 
 :root {
   --bg-main: #141a22;
@@ -21,7 +21,8 @@ html {
 
 body {
   margin: 0;
-  font-family: "Inter", sans-serif;
+  font-family: "Kanit", "Inter", sans-serif;
+  font-weight: 500;
   background: var(--bg-main);
   color: var(--text-main);
 }

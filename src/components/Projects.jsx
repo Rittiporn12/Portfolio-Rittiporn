@@ -6,21 +6,21 @@ function Projects() {
             title: 'Motorcycle Platform',
             role: 'Full-Stack Developer & Tester',
             description:
-                'Developed and tested an online motorcycle store web application using C# ASP.NET MVC, JavaScript, AJAX, SQL Server, Docker, and Postman. Focused on user flows, API testing, input validation, and database operations.',
+                'พัฒนาและทดสอบ Web Application ร้านขายรถจักรยานยนต์ออนไลน์ โดยใช้ C# ASP.NET MVC, JavaScript, AJAX, SQL Server, Docker และ Postman โดยเน้นการทำงานของ User Flow, API Testing, Input Validation และการจัดการข้อมูลใน Database',
             tags: ['ASP.NET MVC', 'SQL Server', 'Postman', 'Docker']
         },
         {
             title: 'PairPlate Nutrition AI System',
             role: 'AI Developer & LLM Training',
             description:
-                'Developed and trained an AI-powered nutrition recommendation system using LLM models. Prepared and processed data from CSV, text, websites, and PDF files using OCR, then tested model responses to improve recommendation accuracy.',
+                'พัฒนาและฝึกสอนระบบ AI สำหรับแนะนำโภชนาการ โดยใช้ LLM Model มีการเตรียมและประมวลผลข้อมูลจาก CSV, Text, Website และ PDF ผ่าน OCR รวมถึงทดสอบคำตอบของโมเดลเพื่อปรับปรุงความแม่นยำของคำแนะนำ',
             tags: ['Python', 'Google Colab', 'LLM', 'OCR']
         },
         {
             title: 'AI Chatbot & n8n Automation',
             role: 'Developer & Integration Tester',
             description:
-                'Created AI Agent workflows using n8n to evaluate user input, generate responses, connect APIs, and test workflow execution, webhook triggers, data mapping, and error handling.',
+                'สร้าง Workflow สำหรับ AI Agent ด้วย n8n เพื่อประเมินข้อความจากผู้ใช้ สร้างคำตอบ เชื่อมต่อ API และทดสอบการทำงานของ Workflow, Webhook Trigger, Data Mapping และ Error Handling',
             tags: ['n8n', 'AI Agent', 'Webhook', 'API Testing']
         }
     ]
@@ -29,7 +29,7 @@ function Projects() {
         <section id="projects" className="section projects-section">
             <Container>
                 <p className="section-label">Portfolio</p>
-                <h2>Selected Projects</h2>
+                <h2>ผลงานที่น่าสนใจ</h2>
 
                 <Row className="mt-4 g-4">
                     {projects.map((project, index) => (

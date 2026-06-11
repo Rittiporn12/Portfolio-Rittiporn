@@ -84,7 +84,12 @@ function Skills() {
         <section id="skills" className="section skills-section">
             <Container>
                 <p className="section-label">Skills</p>
-                <h2>Technical Skills</h2>
+                <h2>ทักษะด้าน Technical Skills</h2>
+
+                <p className="section-description">
+                    เทคโนโลยีและเครื่องมือที่ผมใช้ในการพัฒนา Web Application,
+                    API, Database, Automation Workflow และ Software Testing
+                </p>
 
                 <Row className="mt-4 g-4">
                     {skills.map((skill, index) => (

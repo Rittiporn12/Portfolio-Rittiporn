@@ -6,46 +6,46 @@ function About() {
             <Container>
                 <Row className="align-items-start g-5">
                     <Col lg={6}>
-                        <p className="section-label">About Me</p>
+                        <p className="section-label">เกี่ยวกับฉัน</p>
 
                         <h2>
-                            I am a Computer Science student exploring software development,
-                            data, AI, and automation.
+                            ผมเป็นนักศึกษา Computer Science ที่กำลังพัฒนาทักษะด้าน
+                            Software Development, Data, AI และ Automation
                         </h2>
 
                         <p>
-                            I am currently pursuing a Bachelor's degree in Computer Science and
-                            Software Development Innovation at Sripatum University. My academic
-                            background focuses on full-stack development, system design, front-end
-                            and back-end development, data analysis, AI model development, model
-                            training, and workflow automation.
+                            ปัจจุบันผมกำลังศึกษาในระดับปริญญาตรี สาขาวิทยาการคอมพิวเตอร์
+                            และนวัตกรรมการพัฒนาซอฟต์แวร์ มหาวิทยาลัยศรีปทุม โดยมีพื้นฐานด้าน
+                            Full-Stack Development, System Design, Front-end และ Back-end
+                            Development รวมถึง Data Analysis, AI Model Development, Model
+                            Training และ Workflow Automation
                         </p>
 
                         <p>
-                            I enjoy learning how software systems work, analyzing problems,
-                            designing practical solutions, and improving applications through
-                            development, testing, and continuous learning.
+                            ผมชอบเรียนรู้การทำงานของ Software System การวิเคราะห์ปัญหา
+                            การออกแบบแนวทางแก้ไขที่ใช้งานได้จริง และการพัฒนาแอปพลิเคชันให้ดีขึ้น
+                            ผ่านการเขียนโปรแกรม การทดสอบ และการเรียนรู้อย่างต่อเนื่อง
                         </p>
                     </Col>
 
                     <Col lg={6}>
                         <div className="education-box">
-                            <p className="education-label">Education</p>
+                            <p className="education-label">การศึกษา</p>
 
                             <div className="education-item">
                                 <div>
-                                    <h5>Computer Science and Software Development Innovation</h5>
-                                    <p>Sripatum University</p>
-                                    <small>Current GPX: 3.93</small>
+                                    <h5>วิทยาการคอมพิวเตอร์และนวัตกรรมการพัฒนาซอฟต์แวร์</h5>
+                                    <p>มหาวิทยาลัยศรีปทุม</p>
+                                    <small>เกรดเฉลี่ยปัจจุบัน: 3.93</small>
                                 </div>
-                                <span>2023 - Present</span>
+                                <span>2023 - ปัจจุบัน</span>
                             </div>
 
                             <div className="education-item">
                                 <div>
-                                    <h5>English-Mathematics Program</h5>
-                                    <p>Samutprakan School</p>
-                                    <small>GPX: 3.10</small>
+                                    <h5>แผนการเรียน English-Mathematics Program</h5>
+                                    <p>โรงเรียนสมุทรปราการ</p>
+                                    <small>เกรดเฉลี่ย: 3.10</small>
                                 </div>
                                 <span>2020 - 2023</span>
                             </div>

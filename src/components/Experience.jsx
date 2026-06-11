@@ -5,7 +5,7 @@ function Experience() {
         <section id="experience" className="section experience-section">
             <Container>
                 <p className="section-label">Experience</p>
-                <h2>Work Experience</h2>
+                <h2>ประสบการณ์การทำงาน</h2>
 
                 <Row className="mt-4">
                     <Col lg={12}>
@@ -17,31 +17,32 @@ function Experience() {
                                         AI-Powered Automation using n8n Workshop
                                     </p>
                                     <p className="experience-location">
-                                        Kasetsart University, Bangkhen
+                                        มหาวิทยาลัยเกษตรศาสตร์ บางเขน
                                     </p>
                                 </div>
 
-                                <span className="experience-date">May 2026</span>
+                                <span className="experience-date">พฤษภาคม 2026</span>
                             </div>
 
                             <div className="experience-content">
                                 <p>
-                                    Assisted participants during the AI-Powered Automation using n8n workshop,
-                                    providing guidance and support during hands-on activities.
+                                    ได้ปฏิบัติหน้าที่เป็นผู้ช่วยสอนใน Workshop หัวข้อ
+                                    AI-Powered Automation using n8n โดยช่วยดูแลและให้คำแนะนำผู้เข้าร่วม
+                                    ระหว่างการทำกิจกรรมแบบ Hands-on
                                 </p>
 
                                 <ul>
                                     <li>
-                                        Supported participants in using n8n to create basic workflow automation.
+                                        ช่วยแนะนำผู้เข้าร่วมในการใช้งาน n8n เพื่อสร้าง Workflow Automation เบื้องต้น
                                     </li>
                                     <li>
-                                        Helped troubleshoot workflow issues, node configuration problems, and execution errors.
+                                        ช่วยตรวจสอบและแก้ไขปัญหาเกี่ยวกับ Workflow, การตั้งค่า Node และ Execution Error
                                     </li>
                                     <li>
-                                        Assisted the instructor in explaining workshop steps and ensuring participants could follow the activities.
+                                        สนับสนุนผู้สอนในการอธิบายขั้นตอนของ Workshop และช่วยให้ผู้เข้าร่วมสามารถทำตามกิจกรรมได้
                                     </li>
                                     <li>
-                                        Gained practical experience in automation concepts, workflow testing, and user support.
+                                        ได้รับประสบการณ์จริงด้าน Automation Concept, Workflow Testing และ User Support
                                     </li>
                                 </ul>
                             </div>

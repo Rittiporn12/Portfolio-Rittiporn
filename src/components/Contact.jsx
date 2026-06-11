@@ -7,10 +7,11 @@ function Contact() {
                 <Row className="align-items-center g-4">
                     <Col lg={7}>
                         <p className="section-label">Contact</p>
-                        <h2>Let’s work together</h2>
+                        <h2>ติดต่อร่วมงานกับผม</h2>
                         <p>
-                            I am currently looking for a Software Tester internship opportunity.
-                            Feel free to contact me for more information.
+                            ปัจจุบันผมกำลังมองหาโอกาสฝึกงาน
+                            หากสนใจสอบถามข้อมูลเพิ่มเติม หรือต้องการพูดคุยเกี่ยวกับผลงาน
+                            สามารถติดต่อผมได้ตามช่องทางด้านข้าง
                         </p>
                     </Col>
 
@@ -23,7 +24,7 @@ function Contact() {
                                 <strong>Email:</strong> earthcraftchallenge@gmail.com
                             </p>
                             <p>
-                                <strong>Address:</strong> Mueng Samut Prakan, Samut Prakan 10280
+                                <strong>Address:</strong> อำเภอเมืองสมุทรปราการ จังหวัดสมุทรปราการ 10280
                             </p>
                             <p>
                                 <strong>GitHub:</strong> github.com/Rittiporn12
